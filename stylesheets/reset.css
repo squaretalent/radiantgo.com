@@ -14,4 +14,4 @@ body strong { font-weight: bold; }
 body em { font-style: italic; }
 body small { font-size: 0.85em; }
 body pre { margin: 0; }
-body pre code { display: block; width: 640; margin: 9px auto; overflow: visible; padding: 9px; white-space: pre; font-family: Monaco, monospace; font-size: 12px; line-height: 20px; background-color: black; color: #23a2d9; }
+body pre code { display: block; margin: 9px auto; overflow: visible; padding: 18px; white-space: pre; font-family: Monaco, monospace; font-size: 12px; line-height: 20px; background-color: black; color: #23a2d9; }
