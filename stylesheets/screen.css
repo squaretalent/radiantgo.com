@@ -3,10 +3,10 @@
 body .talent { color: #ea5a27; }
 body .square { color: #36ac4a; }
 body #root_container { min-width: 640px; width: 100%; position: relative; min-height: 100%; background-color: #f1f1f1; }
-body #root_container #root { position: relative; margin: 0 auto; width: 630px; padding-bottom: 36px; }
+body #root_container #root { position: relative; margin: 0 auto; width: 630px; overflow: hidden; padding-bottom: 36px; }
 body #root_container #root h1 { font-size: 27px; font-weight: bold; color: #cc0000; line-height: 36px; padding: 9px 0 0; }
 body #root_container #root h2 { font-size: 18px; line-height: 18px; padding: 0 0 9px; }
-body #foot { position: relative; margin: -36px auto 0; height: 36px; line-height: 36px; width: 100%; background-color: #23a2d9; color: #ffffff; text-align: center; font-size: 14px; font-weight: bold; }
+body #foot { position: relative; margin: -36px auto 0; height: 36px; line-height: 36px; width: 100%; min-width: 640px; background-color: #23a2d9; color: #ffffff; text-align: center; font-size: 14px; font-weight: bold; }
 body #foot a { color: #ffffff; }
 body #foot a:hover, body #foot a:visited { color: #00528c; }
 body #foot .talent { background-color: #ea5a27; color: #ffffff; padding: 2px 3px; }
